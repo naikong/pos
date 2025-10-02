@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NPIC.Y3\\Semester2\\Destop Application\\NPIC2024_Y3S2_DES\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{306D8381-8ED1-403C-B850-D7BA15016324}|NPIC2024_Y3S2_DES.csproj|D:\\NPIC.Y3\\Semester2\\Destop Application\\NPIC2024_Y3S2_DES\\frmsaleproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{306D8381-8ED1-403C-B850-D7BA15016324}|NPIC2024_Y3S2_DES.csproj|solutionrelative:frmsaleproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306D8381-8ED1-403C-B850-D7BA15016324}|NPIC2024_Y3S2_DES.csproj|d:\\npic.y3\\semester2\\destop application\\npic2024_y3s2_des\\frmreportsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{306D8381-8ED1-403C-B850-D7BA15016324}|NPIC2024_Y3S2_DES.csproj|solutionrelative:frmreportsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306D8381-8ED1-403C-B850-D7BA15016324}|NPIC2024_Y3S2_DES.csproj|d:\\npic.y3\\semester2\\destop application\\npic2024_y3s2_des\\frmreportstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{306D8381-8ED1-403C-B850-D7BA15016324}|NPIC2024_Y3S2_DES.csproj|solutionrelative:frmreportstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306D8381-8ED1-403C-B850-D7BA15016324}|NPIC2024_Y3S2_DES.csproj|d:\\npic.y3\\semester2\\destop application\\npic2024_y3s2_des\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{306D8381-8ED1-403C-B850-D7BA15016324}|NPIC2024_Y3S2_DES.csproj|solutionrelative:frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306D8381-8ED1-403C-B850-D7BA15016324}|NPIC2024_Y3S2_DES.csproj|d:\\npic.y3\\semester2\\destop application\\npic2024_y3s2_des\\frmcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{306D8381-8ED1-403C-B850-D7BA15016324}|NPIC2024_Y3S2_DES.csproj|solutionrelative:frmcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306D8381-8ED1-403C-B850-D7BA15016324}|NPIC2024_Y3S2_DES.csproj|d:\\npic.y3\\semester2\\destop application\\npic2024_y3s2_des\\frm_hw1show.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{306D8381-8ED1-403C-B850-D7BA15016324}|NPIC2024_Y3S2_DES.csproj|solutionrelative:frm_hw1show.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306D8381-8ED1-403C-B850-D7BA15016324}|NPIC2024_Y3S2_DES.csproj|d:\\npic.y3\\semester2\\destop application\\npic2024_y3s2_des\\frm_hw1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{306D8381-8ED1-403C-B850-D7BA15016324}|NPIC2024_Y3S2_DES.csproj|solutionrelative:frm_hw1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306D8381-8ED1-403C-B850-D7BA15016324}|NPIC2024_Y3S2_DES.csproj|d:\\npic.y3\\semester2\\destop application\\npic2024_y3s2_des\\frmsale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{306D8381-8ED1-403C-B850-D7BA15016324}|NPIC2024_Y3S2_DES.csproj|solutionrelative:frmsale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306D8381-8ED1-403C-B850-D7BA15016324}|NPIC2024_Y3S2_DES.csproj|D:\\NPIC.Y3\\Semester2\\Destop Application\\NPIC2024_Y3S2_DES\\frmsale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{306D8381-8ED1-403C-B850-D7BA15016324}|NPIC2024_Y3S2_DES.csproj|solutionrelative:frmsale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306D8381-8ED1-403C-B850-D7BA15016324}|NPIC2024_Y3S2_DES.csproj|D:\\NPIC.Y3\\Semester2\\Destop Application\\NPIC2024_Y3S2_DES\\frmstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{306D8381-8ED1-403C-B850-D7BA15016324}|NPIC2024_Y3S2_DES.csproj|solutionrelative:frmstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306D8381-8ED1-403C-B850-D7BA15016324}|NPIC2024_Y3S2_DES.csproj|D:\\NPIC.Y3\\Semester2\\Destop Application\\NPIC2024_Y3S2_DES\\pbclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{306D8381-8ED1-403C-B850-D7BA15016324}|NPIC2024_Y3S2_DES.csproj|solutionrelative:pbclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306D8381-8ED1-403C-B850-D7BA15016324}|NPIC2024_Y3S2_DES.csproj|D:\\NPIC.Y3\\Semester2\\Destop Application\\NPIC2024_Y3S2_DES\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{306D8381-8ED1-403C-B850-D7BA15016324}|NPIC2024_Y3S2_DES.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306D8381-8ED1-403C-B850-D7BA15016324}|NPIC2024_Y3S2_DES.csproj|D:\\NPIC.Y3\\Semester2\\Destop Application\\NPIC2024_Y3S2_DES\\frmsaleproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{306D8381-8ED1-403C-B850-D7BA15016324}|NPIC2024_Y3S2_DES.csproj|solutionrelative:frmsaleproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306D8381-8ED1-403C-B850-D7BA15016324}|NPIC2024_Y3S2_DES.csproj|D:\\NPIC.Y3\\Semester2\\Destop Application\\NPIC2024_Y3S2_DES\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{306D8381-8ED1-403C-B850-D7BA15016324}|NPIC2024_Y3S2_DES.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmReportSupplier.cs [Design]",
+              "DocumentMoniker": "D:\\NPIC.Y3\\Semester2\\Destop Application\\NPIC2024_Y3S2_DES\\frmReportSupplier.cs",
+              "RelativeDocumentMoniker": "frmReportSupplier.cs",
+              "ToolTip": "D:\\NPIC.Y3\\Semester2\\Destop Application\\NPIC2024_Y3S2_DES\\frmReportSupplier.cs [Design]",
+              "RelativeToolTip": "frmReportSupplier.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T16:52:22.162Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmReportStock.cs [Design]",
+              "DocumentMoniker": "D:\\NPIC.Y3\\Semester2\\Destop Application\\NPIC2024_Y3S2_DES\\frmReportStock.cs",
+              "RelativeDocumentMoniker": "frmReportStock.cs",
+              "ToolTip": "D:\\NPIC.Y3\\Semester2\\Destop Application\\NPIC2024_Y3S2_DES\\frmReportStock.cs [Design]",
+              "RelativeToolTip": "frmReportStock.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T16:52:17.003Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmProduct.cs [Design]",
+              "DocumentMoniker": "D:\\NPIC.Y3\\Semester2\\Destop Application\\NPIC2024_Y3S2_DES\\frmProduct.cs",
+              "RelativeDocumentMoniker": "frmProduct.cs",
+              "ToolTip": "D:\\NPIC.Y3\\Semester2\\Destop Application\\NPIC2024_Y3S2_DES\\frmProduct.cs [Design]",
+              "RelativeToolTip": "frmProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T16:52:13.068Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmcalculator.cs [Design]",
+              "DocumentMoniker": "D:\\NPIC.Y3\\Semester2\\Destop Application\\NPIC2024_Y3S2_DES\\frmcalculator.cs",
+              "RelativeDocumentMoniker": "frmcalculator.cs",
+              "ToolTip": "D:\\NPIC.Y3\\Semester2\\Destop Application\\NPIC2024_Y3S2_DES\\frmcalculator.cs [Design]",
+              "RelativeToolTip": "frmcalculator.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T16:52:11.338Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmSaleProduct.cs [Design]",
+              "DocumentMoniker": "D:\\NPIC.Y3\\Semester2\\Destop Application\\NPIC2024_Y3S2_DES\\frmSaleProduct.cs",
+              "RelativeDocumentMoniker": "frmSaleProduct.cs",
+              "ToolTip": "D:\\NPIC.Y3\\Semester2\\Destop Application\\NPIC2024_Y3S2_DES\\frmSaleProduct.cs [Design]",
+              "RelativeToolTip": "frmSaleProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T07:53:32.595Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frm_hw1Show.cs [Design]",
+              "DocumentMoniker": "D:\\NPIC.Y3\\Semester2\\Destop Application\\NPIC2024_Y3S2_DES\\frm_hw1Show.cs",
+              "RelativeDocumentMoniker": "frm_hw1Show.cs",
+              "ToolTip": "D:\\NPIC.Y3\\Semester2\\Destop Application\\NPIC2024_Y3S2_DES\\frm_hw1Show.cs [Design]",
+              "RelativeToolTip": "frm_hw1Show.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T16:52:10.337Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frm_hw1.cs [Design]",
+              "DocumentMoniker": "D:\\NPIC.Y3\\Semester2\\Destop Application\\NPIC2024_Y3S2_DES\\frm_hw1.cs",
+              "RelativeDocumentMoniker": "frm_hw1.cs",
+              "ToolTip": "D:\\NPIC.Y3\\Semester2\\Destop Application\\NPIC2024_Y3S2_DES\\frm_hw1.cs [Design]",
+              "RelativeToolTip": "frm_hw1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T16:52:09.292Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmStock.cs [Design]",
+              "DocumentMoniker": "D:\\NPIC.Y3\\Semester2\\Destop Application\\NPIC2024_Y3S2_DES\\frmStock.cs",
+              "RelativeDocumentMoniker": "frmStock.cs",
+              "ToolTip": "D:\\NPIC.Y3\\Semester2\\Destop Application\\NPIC2024_Y3S2_DES\\frmStock.cs [Design]",
+              "RelativeToolTip": "frmStock.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T07:59:59.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NPIC.Y3\\Semester2\\Destop Application\\NPIC2024_Y3S2_DES\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\NPIC.Y3\\Semester2\\Destop Application\\NPIC2024_Y3S2_DES\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T07:57:15.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "pbclass.cs",
+              "DocumentMoniker": "D:\\NPIC.Y3\\Semester2\\Destop Application\\NPIC2024_Y3S2_DES\\pbclass.cs",
+              "RelativeDocumentMoniker": "pbclass.cs",
+              "ToolTip": "D:\\NPIC.Y3\\Semester2\\Destop Application\\NPIC2024_Y3S2_DES\\pbclass.cs",
+              "RelativeToolTip": "pbclass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T07:57:09.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmSale.cs",
+              "DocumentMoniker": "D:\\NPIC.Y3\\Semester2\\Destop Application\\NPIC2024_Y3S2_DES\\frmSale.cs",
+              "RelativeDocumentMoniker": "frmSale.cs",
+              "ToolTip": "D:\\NPIC.Y3\\Semester2\\Destop Application\\NPIC2024_Y3S2_DES\\frmSale.cs",
+              "RelativeToolTip": "frmSale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAL4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T07:54:18.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmSale.cs [Design]",
+              "DocumentMoniker": "D:\\NPIC.Y3\\Semester2\\Destop Application\\NPIC2024_Y3S2_DES\\frmSale.cs",
+              "RelativeDocumentMoniker": "frmSale.cs",
+              "ToolTip": "D:\\NPIC.Y3\\Semester2\\Destop Application\\NPIC2024_Y3S2_DES\\frmSale.cs [Design]",
+              "RelativeToolTip": "frmSale.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T07:54:14.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmSaleProduct.cs",
+              "DocumentMoniker": "D:\\NPIC.Y3\\Semester2\\Destop Application\\NPIC2024_Y3S2_DES\\frmSaleProduct.cs",
+              "RelativeDocumentMoniker": "frmSaleProduct.cs",
+              "ToolTip": "D:\\NPIC.Y3\\Semester2\\Destop Application\\NPIC2024_Y3S2_DES\\frmSaleProduct.cs",
+              "RelativeToolTip": "frmSaleProduct.cs",
+              "ViewState": "AgIAAPYAAAAAAAAAAAAjwDoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T07:53:45.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\NPIC.Y3\\Semester2\\Destop Application\\NPIC2024_Y3S2_DES\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "D:\\NPIC.Y3\\Semester2\\Destop Application\\NPIC2024_Y3S2_DES\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-09-03T06:22:44.643Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

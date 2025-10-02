@@ -1,0 +1,10 @@
+D:\NPIC.Y3\Semester2\Destop Application\NPIC_2024\bin\Debug\NPIC_2024.exe.config
+D:\NPIC.Y3\Semester2\Destop Application\NPIC_2024\bin\Debug\NPIC_2024.exe
+D:\NPIC.Y3\Semester2\Destop Application\NPIC_2024\bin\Debug\NPIC_2024.pdb
+D:\NPIC.Y3\Semester2\Destop Application\NPIC_2024\obj\Debug\NPIC_2024.csproj.AssemblyReference.cache
+D:\NPIC.Y3\Semester2\Destop Application\NPIC_2024\obj\Debug\NPIC_2024.frmUser.resources
+D:\NPIC.Y3\Semester2\Destop Application\NPIC_2024\obj\Debug\NPIC_2024.Properties.Resources.resources
+D:\NPIC.Y3\Semester2\Destop Application\NPIC_2024\obj\Debug\NPIC_2024.csproj.GenerateResource.cache
+D:\NPIC.Y3\Semester2\Destop Application\NPIC_2024\obj\Debug\NPIC_2024.csproj.CoreCompileInputs.cache
+D:\NPIC.Y3\Semester2\Destop Application\NPIC_2024\obj\Debug\NPIC_2024.exe
+D:\NPIC.Y3\Semester2\Destop Application\NPIC_2024\obj\Debug\NPIC_2024.pdb
